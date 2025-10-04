@@ -25,7 +25,7 @@ dependencies = [
     "click>=8.0",
     "python-dotenv>=1.0.0",
     "pillow>=10.0.0", # For image handling
-    "moviepy>=1.0.0", # For video export
+    "moviepy==1.0.3", # For video export
     "requests>=2.31.0", # For API calls to OpenRouter
     "tqdm>=4.65.0", # For progress bars
 ]
