@@ -19,7 +19,4 @@ __pycache__/
 .env.production
 .env.production.local
 .env.staging
-inputs/
-panels/
 spotforge.egg-info
-exports/
